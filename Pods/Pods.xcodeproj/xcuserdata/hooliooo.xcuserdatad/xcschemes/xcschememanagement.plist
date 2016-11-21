@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-ProgrammaticViews.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ProgrammaticViewsProgrammaticViewss.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ProgrammaticViewsUIProgrammaticViewss.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1E541C48AD1815E27F2D15E00C2C5A4C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3AFAC0CF983685DFEDFB52CEC205AD99</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7D7EBDE3FA9A8DC16E498FB59AF3A090</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D5BBC83A553A884660C16F21BBF1D75B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
