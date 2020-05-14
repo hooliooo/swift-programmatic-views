@@ -20,11 +20,11 @@ class LoginVC: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    // MARK: - IBOutlets
-    weak var loginView: LoginView! { return self.view as! LoginView }
-    weak var emailTextField: UITextField! { return loginView.emailTextField }
-    weak var passwordTextField: UITextField! { return loginView.passwordTextField }
-    weak var loginButton: UIButton! { return loginView.loginButton }
+    // MARK: - Views
+    var loginView: LoginView! { return self.view as! LoginView }
+    var emailTextField: UITextField! { return loginView.emailTextField }
+    var passwordTextField: UITextField! { return loginView.passwordTextField }
+    var loginButton: UIButton! { return loginView.loginButton }
     
     // MARK: - IBActions
     func loginButtonPressed() {
