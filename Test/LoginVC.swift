@@ -26,8 +26,8 @@ class LoginVC: UIViewController {
     var passwordTextField: UITextField! { return loginView.passwordTextField }
     var loginButton: UIButton! { return loginView.loginButton }
     
-    // MARK: - IBActions
-    func loginButtonPressed() {
+    // MARK: - Target Action Functions
+    @objc func loginButtonPressed() {
         print("Login!")
     }
     
